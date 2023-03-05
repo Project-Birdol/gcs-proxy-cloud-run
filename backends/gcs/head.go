@@ -19,8 +19,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/DomZippilli/gcs-proxy-cloud-function/common"
-	"github.com/DomZippilli/gcs-proxy-cloud-function/filter"
+	"github.com/Project-Birdol/gcs-proxy-cloud-function/common"
+	"github.com/Project-Birdol/gcs-proxy-cloud-function/filter"
 
 	storage "cloud.google.com/go/storage"
 	"github.com/rs/zerolog/log"

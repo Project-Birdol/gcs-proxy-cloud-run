@@ -19,7 +19,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/DomZippilli/gcs-proxy-cloud-function/filter"
+	"github.com/Project-Birdol/gcs-proxy-cloud-function/filter"
 
 	"github.com/rs/zerolog/log"
 )

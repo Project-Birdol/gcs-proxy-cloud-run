@@ -20,8 +20,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/DomZippilli/gcs-proxy-cloud-function/common"
-	"github.com/DomZippilli/gcs-proxy-cloud-function/filter"
+	"github.com/Project-Birdol/gcs-proxy-cloud-function/common"
+	"github.com/Project-Birdol/gcs-proxy-cloud-function/filter"
 	gocache "github.com/patrickmn/go-cache"
 	"golang.org/x/text/language"
 )

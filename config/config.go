@@ -17,8 +17,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/DomZippilli/gcs-proxy-cloud-function/backends/gcs"
-	"github.com/DomZippilli/gcs-proxy-cloud-function/backends/proxy"
+	"github.com/Project-Birdol/gcs-proxy-cloud-function/backends/gcs"
+	"github.com/Project-Birdol/gcs-proxy-cloud-function/backends/proxy"
 )
 
 // Setup will be called once at the start of the program.

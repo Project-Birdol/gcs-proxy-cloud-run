@@ -22,7 +22,7 @@ import (
 	"strings"
 
 	translate "cloud.google.com/go/translate/apiv3"
-	"github.com/DomZippilli/gcs-proxy-cloud-function/common"
+	"github.com/Project-Birdol/gcs-proxy-cloud-function/common"
 	"golang.org/x/text/language"
 	translatepb "google.golang.org/genproto/googleapis/cloud/translate/v3"
 )

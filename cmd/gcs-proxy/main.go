@@ -18,7 +18,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/DomZippilli/gcs-proxy-cloud-function/config"
+	"github.com/Project-Birdol/gcs-proxy-cloud-function/config"
 	"github.com/rs/zerolog/log"
 	"golang.org/x/net/http2"
 	"golang.org/x/net/http2/h2c"

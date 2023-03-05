@@ -22,7 +22,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/DomZippilli/gcs-proxy-cloud-function/common"
+	"github.com/Project-Birdol/gcs-proxy-cloud-function/common"
 	"github.com/rs/zerolog/log"
 )
 
